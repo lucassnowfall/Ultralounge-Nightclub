@@ -1,0 +1,65 @@
+/* font-family: 'Pacifico',
+cursive;
+font-family: 'Baloo Chettan 2',
+cursive;
+font-family: 'Montserrat',
+sans-serif; */
+
+body {
+    background-image: url("/images/perfect.png");
+}
+
+h5 {
+    color: whitesmoke;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 1rem;
+}
+
+.brand {
+    color: rgb(253, 5, 212);
+    font-family: 'Pacifico', cursive;
+    font-size: 10vw;
+    padding-top: 12vw;
+}
+
+.brand2 {
+    color: chartreuse;
+    font-family: 'Baloo Chettan 2', cursive;
+    font-size: 4vw;
+    padding-bottom: 12vw;
+}
+
+
+.weekEvent {
+    padding-bottom: 10vw;
+}
+
+.navbar-nav>li {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.aboutCard {
+    border-radius: 0.3rem;
+}
+
+.cardArea {
+    margin-top: 4rem;
+}
+
+.nav-item {
+
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+
+.featured {
+    font-family: monospace;
+    color: white;
+}
+
+.carousel {
+    
+    width: 640px;
+    height: 360px;
+}

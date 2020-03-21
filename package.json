@@ -1,0 +1,27 @@
+{
+  "name": "ultralounge-nightclub",
+  "version": "1.0.0",
+  "description": "Nightclub Project",
+  "main": "index.js",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucassnowfall/Ultralounge-Nightclub.git"
+  },
+  "author": "Lucas Snowfall",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucassnowfall/Ultralounge-Nightclub/issues"
+  },
+  "homepage": "https://github.com/lucassnowfall/Ultralounge-Nightclub#readme",
+  "dependencies": {
+    "tooltip.js": "^1.3.3"
+  },
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
